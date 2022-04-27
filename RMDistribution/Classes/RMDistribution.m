@@ -20,7 +20,7 @@
 }
 
 + (void)distributionListPage:(BOOL)isAnimate isPush:(BOOL)isPush{
-    [RMBaseManager openFlutterViewWithRoute:@"RMDistribution.distributionListPage" isAnimate:isAnimate isPush:isPush];
+    [RMBaseManager openFlutterViewWithRoute:@"RmDistribution.distributionListPage" isAnimate:isAnimate isPush:isPush];
 }
 
 
